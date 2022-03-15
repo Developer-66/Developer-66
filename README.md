@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Developer-66
 - 👀 I’m interested in ... Dev Ops and Infrastuture As Code
 - 🌱 I’m currently learning ... Python and Pulumi
-- 💞️ I’m looking to collaborate on ... IAC Azure Projects
+- 💞️ I’m looking to collaborate on ... IaC Azure Projects
 - 📫 How to reach me ... nickluxford.co.uk
 
 <!---
